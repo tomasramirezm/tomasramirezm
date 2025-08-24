@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Tomás Ramírez  
 
 🎓 22-year-old student from Chile, currently pursuing a **double degree** in  
-- **Computer Engineering** & **Mathematical Engineering** – *University of Chile*  
+- **Computer Science Engineering** & **Mathematical Engineering** – *University of Chile*  
 - **Engineering** – *CentraleSupélec, France* (Shanghai Ranking: #1 in continental Europe)  
 
 🔬 Currently researching at **École Normale Supérieure (ENS)** on the project:  
